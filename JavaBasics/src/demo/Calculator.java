@@ -17,7 +17,7 @@ public class Calculator {
 	public void divide(int a, int b) {// Formal Parameters
 		System.out.println(a / b);
 	}
-
+	//Adding comment to see the changes in GIT Hub
 	public static void main(String[] args) {
 
 		Calculator basicCal = new Calculator();
